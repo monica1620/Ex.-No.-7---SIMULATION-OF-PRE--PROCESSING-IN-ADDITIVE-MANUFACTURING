@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: MONICA R
+### Register Number: 212225240089
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
