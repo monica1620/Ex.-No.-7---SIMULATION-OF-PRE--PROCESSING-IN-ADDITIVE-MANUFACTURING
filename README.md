@@ -1,5 +1,5 @@
 # Ex. No. 6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+### DATE: 11-03-2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,6 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1046" height="569" alt="image" src="https://github.com/user-attachments/assets/cd00a4e4-190a-4d48-829f-02da1f653303" />
+<img width="1045" height="598" alt="image" src="https://github.com/user-attachments/assets/966a0c1d-92f2-4295-aaa9-c43fa7ca6a5e" />
+<img width="1048" height="555" alt="image" src="https://github.com/user-attachments/assets/52ae1b78-e333-4a35-b1a7-882a45033449" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a30642d-4a0b-4a0f-8cf2-652f7c361ef5" />
+
 
 ### Name: MONICA R
 ### Register Number: 212225240089
